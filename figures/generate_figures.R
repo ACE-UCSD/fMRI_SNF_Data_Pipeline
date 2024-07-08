@@ -1,10 +1,11 @@
-#
-# tidy script for generating figures
-# created by vani taluja 
-# last edited: 02 july 2024
-#
-# all legends (i.e. color, shape) were added externally
-# 
+
+# Filename: generate_figures.R
+# Version: 2024.04.2+764
+# Author: vani taluja
+# Date Created: 02 july 2024
+# Last Modified: 02 july 2024
+# Description: tidy script for generating figures. all legends (i.e. color, shape) were added externally.
+
 
 # load libraries (and install, if needed)
 # install.packages("ggplot2")
